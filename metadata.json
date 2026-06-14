@@ -1,0 +1,8 @@
+{
+  "name": "inaSuivi AI pro",
+  "description": "Application professionnelle de gestion de chantier, d'analyse de contrats et d'édition de situations de travaux par IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
